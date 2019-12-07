@@ -760,7 +760,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/0012-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/0012-1-1920x1080.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
